@@ -1,0 +1,5 @@
+ IP: 158.160.64.88;
+ name_taski: https://task.sytes.net/;
+ name_kittygram: https://infra.sytes.net/;
+ login: yc-user;
+ password: vfibyf;
